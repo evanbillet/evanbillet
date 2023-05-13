@@ -1,4 +1,6 @@
  ## Hi there 👋
+This is Evan and I am an Engineer with nearly a half of decade of professional experience in software engineering. Currently, I enjoy working as a full-stack architect in JavaScript projects, where my experience and my deep understanding of architecture and theory are most impactful.
+I am currently about developing web 3D applications and games with WebGL technology.
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
